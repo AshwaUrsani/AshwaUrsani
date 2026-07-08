@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ashwa
 
-<!--
-**AshwaUrsani/AshwaUrsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst | Data & Analytics | MS Business Analytics (STEM), Simon Business School**
 
-Here are some ideas to get you started:
+I turn messy, real-world data into decisions — with 6+ years of experience spanning core banking implementations, AML/fraud risk modeling, and enterprise data warehousing across the financial services industry in the MENA region.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+- 🏦 Former Business Analyst at **IBM Consulting** and **NDC Tech**, working on Temenos T24 core banking and Oracle Banking products (FCCM, Flexcube)
+- 🎓 Currently pursuing an **MS in Business Analytics (STEM)** at Simon Business School, University of Rochester
+- 📊 BSc in Accounting and Finance, Lahore University of Management Sciences (LUMS)
+- 🌍 Based in Dubai, UAE
+- 🚀 Actively exploring roles at the intersection of business analysis, data analytics, and AI-driven decision-making
+
+---
+
+## 🛠️ Skills
+
+**Data & Analytics:** SQL (CTEs, window functions, aggregations) · Python · Data Warehousing · Excel (Power Query, Pivot Tables, Scenario Modeling)
+**Visualization:** Tableau · Power BI
+**AI/ML:** Machine Learning fundamentals · Generative AI (OpenAI GPT-4, LangChain) · NLP
+**Domain Expertise:** Core Banking (T24) · AML/Fraud Risk · Financial Services · Business Requirements Gathering
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎬 [Film Rental Analytics & Data Warehouse](#) | Built a SQL data warehouse and Tableau dashboards analyzing revenue, customer, and category trends for a movie rental business |
+| 💰 [Loan Approval Decision Support System](#) | Optimized loan application decisions through machine learning |
+| 🌐 [English-to-Spanish Neural Machine Translator](#) | Deep learning NLP model with a live Streamlit deployment |
+| 🎓 [EduGenius AI: Personalized Learning](#) | Gen AI-powered lesson plan generator using GPT-4 and LangChain for after-school education programs |
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](#https://www.linkedin.com/in/ashwa-ursani/) · [Email](#ashwa.ursani23@gmail.com)
