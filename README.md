@@ -21,7 +21,7 @@ I turn messy, real-world data into decisions — with 6+ years of experience spa
 **Data & Analytics:** SQL (CTEs, window functions, aggregations) · Python · Data Warehousing · Excel (Power Query, Pivot Tables, Scenario Modeling)
 **Visualization:** Tableau · Power BI
 **AI/ML:** Machine Learning fundamentals · Generative AI (OpenAI GPT-4, LangChain) · NLP
-**Domain Expertise:** Core Banking (T24) · AML/Fraud Risk · Financial Services · Business Requirements Gathering
+**Domain Expertise:** Core Banking (T24) · AML/Fraud Risk · Financial Services · technology Consulting, Digital Consulting
 
 ---
 
@@ -38,4 +38,4 @@ I turn messy, real-world data into decisions — with 6+ years of experience spa
 
 ## 📫 Let's Connect
 
-[LinkedIn](#https://www.linkedin.com/in/ashwa-ursani/) · [Email](#ashwa.ursani23@gmail.com)
+  [Email](#ashwa.ursani23@gmail.com)
