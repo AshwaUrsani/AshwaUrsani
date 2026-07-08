@@ -23,19 +23,8 @@ I turn messy, real-world data into decisions — with 6+ years of experience spa
 **AI/ML:** Machine Learning fundamentals · Generative AI (OpenAI GPT-4, LangChain) · NLP
 **Domain Expertise:** Core Banking (T24) · AML/Fraud Risk · Financial Services · technology Consulting, Digital Consulting
 
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🎬 [Film Rental Analytics & Data Warehouse](#) | Built a SQL data warehouse and Tableau dashboards analyzing revenue, customer, and category trends for a movie rental business |
-| 💰 [Loan Approval Decision Support System](#) | Optimized loan application decisions through machine learning |
-| 🌐 [English-to-Spanish Neural Machine Translator](#) | Deep learning NLP model with a live Streamlit deployment |
-| 🎓 [EduGenius AI: Personalized Learning](#) | Gen AI-powered lesson plan generator using GPT-4 and LangChain for after-school education programs |
 
 ---
 
 ## 📫 Let's Connect
 
-  [Email](#ashwa.ursani23@gmail.com)
