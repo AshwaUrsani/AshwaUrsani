@@ -1,18 +1,17 @@
-# Hi, I'm Ashwa
+# Ashwa Ursani
 
-**Business Analyst | Data & Analytics | MS Business Analytics (STEM), Simon Business School**
+**Business and Data Analyst | Dubai, UAE**
 
-I turn messy, real-world data into decisions — with 6+ years of experience spanning core banking implementations, AML/fraud risk modeling, and enterprise data warehousing across the financial services industry in the MENA region.
+Bridging the gap between complex data and strategic execution. 
 
 ---
 
 ## 🎯 About Me
 
-- 🏦 Former Business Analyst at **IBM Consulting** and **NDC Tech**, working on Temenos T24 core banking and Oracle Banking products (FCCM, Flexcube)
-- 🎓 Currently pursuing an **MS in Business Analytics (STEM)** at Simon Business School, University of Rochester
-- 📊 BSc in Accounting and Finance, Lahore University of Management Sciences (LUMS)
-- 🌍 Based in Dubai, UAE
-- 🚀 Actively exploring roles at the intersection of business analysis, data analytics, and AI-driven decision-making
+- 6 years in Technology Consulting: Former consultant at **IBM** and **Systems Ltd. (Ndctech)**, working on Temenos T24 core banking and Oracle Banking products implementations (FCCM, Flexcube) in MENA region. 
+- **MS in Business Analytics (AI concentration)- (STEM)**, Simon Business School, University of Rochester (NewYork, U.S.)
+- **BSc. in Accounting and Finance**, Lahore University of Management Sciences (LUMS, Pakistan)
+- Actively exploring roles at the intersection of business analysis, data analytics, AI products and data-driven decision-making.
 
 ---
 
