@@ -19,7 +19,7 @@ Bridging the gap between complex data and strategic execution.
 
 **Data & Analytics:** SQL (CTEs, window functions, aggregations) · Python · Data Warehousing · Excel (Power Query, Pivot Tables, Scenario Modeling) · R
 **Visualization:** Tableau · Power BI  · MS PowerPoint
-**AI/ML:** Machine Learning fundamentals · Generative AI (OpenAI GPT-4, LangChain) · NLP
+**AI/ML:** Machine Learning fundamentals · Generative AI (OpenAI GPT-4, LangChain) · NLP · Predictive Modelling
 **Domain Expertise:** Core Banking (T24) · AML/Fraud Risk · Financial Services · Technology Consulting, Digital Consulting
 **Business analysis:** Requirements gathering · Gap analysis · BRDs & FSDs · SIT/UAT · Agile & SDLC · Stakeholder management
 
